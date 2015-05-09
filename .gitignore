@@ -19,7 +19,7 @@ bower_components
 *.iml
 *.sublime-*
 projectFilesBackup
-
+.settings
 .DS_Store
 
 # vim-related
